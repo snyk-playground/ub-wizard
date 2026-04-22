@@ -13,7 +13,7 @@ A small [Streamlit](https://streamlit.io/) app that walks through **Snyk Univers
 1. **Clone** (after you create the GitHub repo and push, or clone your existing remote):
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/joeshope/ub-wizard
    cd ub_gui
    ```
 
