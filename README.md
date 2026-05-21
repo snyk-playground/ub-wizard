@@ -1,3 +1,5 @@
+![snyk-oss-category](https://github.com/snyk-labs/oss-images/blob/main/oss-example.jpg)
+
 # Universal Broker UI
 
 A small [Streamlit](https://streamlit.io/) app that walks through **Snyk Universal Broker** setup: session initialization against the Snyk REST API, tenant selection, connections, credentials, org integration, and a generated `docker run` command. The HTTP client lives in `ub_client.py` (`UniversalBrokerClient`).
